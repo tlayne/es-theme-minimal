@@ -4,11 +4,12 @@ A minimalist theme for EmulationStation on the Odroid Go Advance. Built on the b
 ## Guide
 
 ### Install
-1. Add the Minimal folder to `/home/odroid/.emulationstation/themes`.
-2. Restart EmulationStation.
-3. In the main menu select UI Settings -> Theme Set -> Minimal.
-4. Adjust your Gamelist View Style to Basic, Detailed, or Video.
-5. Choose Back and then close the menu.
+1. Download and extract the [latest release](https://github.com/tlayne/es-theme-minimal/releases).
+2. Add the Minimal folder to `/home/odroid/.emulationstation/themes` (merge or overwrite if requested).
+3. Restart EmulationStation.
+4. In the main menu select UI Settings -> Theme Set -> Minimal.
+5. Adjust your Gamelist View Style to Basic, Detailed, or Video.
+6. Choose Back and then close the menu.
 
 *For the best experience, set Carousel Transitions to OFF.*
 
