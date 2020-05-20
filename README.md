@@ -18,3 +18,7 @@ A minimalist theme for EmulationStation on the Odroid Go Advance. Built on the b
 2. Add the new image to the `assets` directory and replace the existing image.
 
 *A few optional backgrounds are included in the `_extra` folder.*
+
+## Obligatory Disclaimer
+
+This theme is still under development. It is only being tested on the Odroid Go Advance hardware using @Valadaa42's excellent [RetroRoller Image](https://github.com/valadaa48/retroroller). I assume zero liability for whatever you do to your device. Use this theme at your own risk!
