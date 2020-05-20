@@ -1,4 +1,4 @@
 <theme>
 <formatVersion>4</formatVersion>
-<include>./layouts/V2.xml</include>
+<include>./layouts/V3.xml</include>
 </theme> 
