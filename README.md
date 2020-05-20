@@ -10,6 +10,8 @@ A minimalist theme for EmulationStation on the Odroid Go Advance. Built on the b
 4. Adjust your Gamelist View Style to Basic, Detailed, or Video.
 5. Choose Back and then close the menu.
 
+*For the best experience, set Carousel Transitions to OFF.*
+
 ### Change Background
 
 1. Rename your desired image to `bg.png`.
