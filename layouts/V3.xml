@@ -1,7 +1,7 @@
 <!-- 
 Theme: Minimal
-version: 2.0
-author: Lilbud
+version: 3.0
+author: Lilbud and Tshroom
 license: creative commons CC-BY-NC-SA
 -->
 <theme>
@@ -26,7 +26,7 @@ license: creative commons CC-BY-NC-SA
 		</helpsystem>
 		
 		<image name="logo">
-			<path>./../art/${system.theme}.svg</path>
+			<path>./../art/png/${system.theme}.png</path>
 		</image>
 	
 	</view>
@@ -235,7 +235,7 @@ license: creative commons CC-BY-NC-SA
 			<pos>0 0</pos>
 			<maxLogoCount>1</maxLogoCount>
 		    <logoScale>1</logoScale>
-		    <logoSize>1 0.4</logoSize>
+		    <logoSize>0.75 1</logoSize>
          </carousel>
 		    
 		<text name="systemInfo">
