@@ -141,7 +141,7 @@ license: creative commons CC-BY-NC-SA
 		</image>
 		
 		<image name="layout" extra="true">
-			<path>./../assets/gamelist.png</path>
+			<path>./../assets/gamelist_detail.png</path>
 			<pos>0 0</pos>
 			<zIndex>2</zIndex>
 			<size>1 1</size>
@@ -174,29 +174,29 @@ license: creative commons CC-BY-NC-SA
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 			<fontPath>./../assets/SST.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<pos>0.307 0.170</pos>
-			<size>0.635 0.68</size>
+			<fontSize>0.04</fontSize>
+			<pos>0.43 0.165</pos>
+			<size>0.53 0.765</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<origin>0 0</origin>
-			<lineSpacing>2.27</lineSpacing>
+			<lineSpacing>2.20</lineSpacing>
 			<selectorImagePath>./../assets/box.png</selectorImagePath>
 			<selectorOffsetY>-0.01</selectorOffsetY>
-			<selectorHeight>0.0675</selectorHeight>
+			<selectorHeight>0.087</selectorHeight>
 		</textlist> 
 		
 		<image name="md_image">
 			<origin>0.5 0.5</origin>
-			<pos>0.1785 0.382</pos>
-			<maxSize>0.236 0.418</maxSize>
+			<pos>0.2085 0.370</pos>
+			<maxSize>0.296 0.478</maxSize>
 		</image> 
 		
 		<text name="md_description">
-			<pos>0.061 0.624</pos>
-			<size>0.236 0.200</size>
+			<pos>0.065 0.675</pos>
+			<size>0.300 0.275</size>
 			<color>ffffff</color>
-			<fontSize>0.025</fontSize>
+			<fontSize>0.030</fontSize>
 			<fontPath>./../assets/noto.ttf</fontPath>
 		</text>
 		
