@@ -32,6 +32,22 @@ license: creative commons CC-BY-NC-SA
 	</view>
 <!-- System Details End -->
 
+<!-- Menu Details  Begin -->
+	<view name="menu">
+
+	<menuBackground name="menubg">
+		<color>10667f</color>
+		<path>./../assets/bg.png</path>
+	</menuBackground>
+
+	<menuText name="menutext, menutitle, menufooter, menutextsmall">
+			<selectorColor>0f85a5</selectorColor>
+			<color>ffffff</color>
+	</menuText>
+
+	</view>
+<!-- Menu Details End-->
+
 <!-- Basic View Options Begin -->
 	<view name="basic">
 		
