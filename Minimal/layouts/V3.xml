@@ -350,6 +350,51 @@ license: creative commons CC-BY-NC-SA
 		</text>
 	  
 	</view>
+		
+	<view name="grid">
+		<image name="background" extra="true">
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./../assets/bg.png</path>
+			<zIndex>5</zIndex>
+			<color>10667f</color>
+		</image>
+
+		<text name="system_name" extra="true">
+			<text>${system.fullName}</text>
+			<forceUppercase>0</forceUppercase>
+			<size>0.5 0.025</size>
+			<pos>0.02 0.025</pos>
+			<color>ffffff</color>
+			<fontPath>./../assets/SST.ttf</fontPath>
+			<fontSize>0.04</fontSize>
+			<zIndex>50</zIndex>
+		</text>
+
+		<imagegrid name="gamegrid">
+   			<autoLayout>1 1</autoLayout>
+     			<autoLayoutSelectedZoom>1.03</autoLayoutSelectedZoom>
+      			<margin>0 0</margin>
+			<padding>0 0</padding>
+      			<zIndex>-5</zIndex>
+			<color>FFFFFF00</color>
+    		</imagegrid>
+		<video name="md_video">
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 1.2</maxSize>
+			<zIndex>10</zIndex>
+			<color>10667f85</color>
+		</video>
+		<image name="md_marquee">
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.85 0.85</maxSize>
+			<zIndex>40</zIndex>
+		</image>
+
+	</view>
 	
 	</feature>
 <!-- Carousel View Options End -->
